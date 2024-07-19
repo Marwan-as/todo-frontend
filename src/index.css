@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100vh;
+  background-color: #1f60c9;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
